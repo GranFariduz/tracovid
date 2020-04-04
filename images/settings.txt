@@ -1,0 +1,55 @@
+// LOADING SCREEN //
+loadingScreenBg = 0xFF9300D9
+loadingScreenDark = 0xFF7C00B7
+
+// HOME SCREEN //
+// CARD
+opacity of overlay = 85%
+ratio of height and width = 2.41
+
+// GRADIENTS
+-- CASES --
+color1 = 0xFFA103EC
+color2 = 0xFF7900B2
+
+-- RECOVERED --
+color1 = 0xFF00CC6A
+color2 = 0xFF00C88C
+
+-- DEATHS --
+color1 = 0xFFFF7171
+color2 = 0xFFE22E2E
+
+// TYPE FACES
+Poppins
+
+// FONT SIZES
+title = 15
+number = 20
+pickerSelectedItem = 14
+
+// FONT WEIGHTS
+medium, extrabold
+
+// COLOR OPACITY
+100% — FF
+95% — F2
+90% — E6
+85% — D9
+80% — CC
+75% — BF
+70% — B3
+65% — A6
+60% — 99
+55% — 8C
+50% — 80
+45% — 73
+40% — 66
+35% — 59
+30% — 4D
+25% — 40
+20% — 33
+15% — 26
+10% — 1A
+5% — 0D
+0% — 00
